@@ -1,0 +1,17 @@
+table,th,td{
+    
+    border-collapse: collapse;
+    border: 2px solid white;
+   text-align: center; 
+   color: white;
+
+}
+body{
+    background-color:black ;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+    text-align: center;
+font-size: 20px;
+font-family: 'Courier New', Courier, monospace;
+}
